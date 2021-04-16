@@ -1,5 +1,5 @@
 
-## Hi 👋, My name is Mert.
+## Hi 👋 , My name is Mert.
 
 As a professional, for more than 4 years, I have been striving to improve both myself and my environment by following computer and network systems and technology closely, making detailed researches on the subject, and most importantly, by doing studies on that subject. I attend many conferences and courses such as Cloud Technology, Artificial Intelligence programming, and participate in many events such as Google Developer and Cloud Talk, both physically and online. I am result-oriented, self-disciplined and highly motivated. I especially improve myself in the title of system expertise.
 
